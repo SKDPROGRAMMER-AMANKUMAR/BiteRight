@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Initial work - [Your Name]
+- Initial work - [Aman Kumar]
 
 ## 🙏 Acknowledgments
 
